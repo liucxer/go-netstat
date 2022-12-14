@@ -6,7 +6,7 @@ import (
 	"net"
 	"os"
 
-	"github.com/cakturk/go-netstat/netstat"
+	"github.com/liucxer/go-netstat/netstat"
 )
 
 var (
